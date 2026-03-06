@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Udit</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | AI & Backend Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Backend+and+System+Design+Learner;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student passionate about **Full-Stack Development and Backend Systems**
-- 🚀 Experienced in building scalable applications using the **MERN Stack**
-- 🤖 Interested in **AI-powered applications and real-time systems**
-- 🌐 Exploring **System Design, Backend Architecture, and Networking**
-- 💡 Always learning new technologies and building impactful projects
+💻 Computer Science student passionate about **Full-Stack Development and Backend Systems**  
+🚀 Experienced in building applications using the **MERN Stack (MongoDB, Express, React, Node.js)**  
+🤖 Interested in **AI-powered platforms, real-time systems, and scalable backend architecture**  
+🔍 Exploring **network systems and packet inspection technologies using C++**  
+📚 Always learning new technologies and improving problem-solving skills
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### 🧠 Languages
+### 🖥️ Languages
 <p>
 <img src="https://skillicons.dev/icons?i=js,python,cpp,java,sql" />
 </p>
@@ -39,69 +39,63 @@
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 🛠 Tools & Platforms
+### 🛠️ Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,postman,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🍔 Foodon – AI Enabled Food Delivery Platform
-- Built a **MERN-based food delivery platform** with AI chatbot and recommendation system
-- Implemented **real-time order tracking using Socket.IO**
-- Added **restaurant management, reviews, and admin dashboard**
+Full-stack **MERN food delivery platform** with AI chatbot, recommendation system, and real-time order tracking.
 
 ### 🔍 DPI Engine – Deep Packet Inspection System
-- Developed a **network traffic inspection engine in C++**
-- Implemented **packet parsing, application detection, and rule-based blocking**
-- Designed **multi-threaded architecture for high performance**
+C++ based networking project for **packet inspection, application detection, and traffic filtering**.
 
 ### ⚖️ E-Court Hearing Platform
-- Virtual courtroom platform with **video conferencing and document submission**
-- Implemented **case management and real-time hearing system**
+Virtual courtroom system with **video conferencing, document management, and case tracking**.
+
+### 🛡️ Women's Safety Web Application
+React based safety platform with **AI speech monitoring for distress detection and alert triggering**.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=udit3103&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=udit3103&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit3103&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit3103&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udit3103&theme=tokyo-night" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udit3103&theme=tokyo-night"/>
 
 ---
 
-## 🌐 Connect With Me
+# 📫 Connect With Me
 
-<p align="left">
-
+<p>
 <a href="https://github.com/udit3103">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/">
+<!-- Add LinkedIn later -->
+<!--
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+-->
 
 </p>
 
 ---
 
-## ✨ Quote
-
-> "Building scalable systems and solving real-world problems through technology."
-
----
+⭐ *Always open to learning, collaboration, and building impactful software.*
