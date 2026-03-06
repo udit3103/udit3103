@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Udit</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Backend & Systems Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Engineer;Learning+System+Design&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-💻 Computer Science student passionate about **Full-Stack Development and Backend Systems**  
-🚀 Experienced in building applications using the **MERN Stack (MongoDB, Express, React, Node.js)**  
-🤖 Interested in **AI-powered platforms, real-time systems, and scalable backend architecture**  
-🔍 Exploring **network systems and packet inspection technologies using C++**  
-📚 Always learning new technologies and improving problem-solving skills
+💻 Computer Science student passionate about **Full-Stack Web Development and Backend Systems**  
+🚀 Experienced in building scalable applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+🔍 Interested in **system design, networking technologies, and backend architecture**  
+⚙️ Built projects involving **AI integration, real-time systems, and packet inspection engines in C++**  
+📚 Continuously learning new technologies and improving problem-solving skills
 
 ---
 
@@ -24,17 +24,17 @@
 <img src="https://skillicons.dev/icons?i=js,python,cpp,java,sql" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,materialui" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
@@ -49,16 +49,16 @@
 # 📌 Featured Projects
 
 ### 🍔 Foodon – AI Enabled Food Delivery Platform
-Full-stack **MERN food delivery platform** with AI chatbot, recommendation system, and real-time order tracking.
+Full-stack MERN application with **AI chatbot, recommendation system, and real-time order tracking**.
 
 ### 🔍 DPI Engine – Deep Packet Inspection System
-C++ based networking project for **packet inspection, application detection, and traffic filtering**.
+C++ networking project that **analyzes packet traffic, extracts SNI data, and applies rule-based filtering**.
 
 ### ⚖️ E-Court Hearing Platform
-Virtual courtroom system with **video conferencing, document management, and case tracking**.
+Virtual courtroom system supporting **video conferencing, document submission, and case tracking**.
 
-### 🛡️ Women's Safety Web Application
-React based safety platform with **AI speech monitoring for distress detection and alert triggering**.
+### 💳 CEO Card Platform
+MERN-based web platform focusing on **luxury card management and optimized database operations**.
 
 ---
 
@@ -86,16 +86,8 @@ React based safety platform with **AI speech monitoring for distress detection a
 <a href="https://github.com/udit3103">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-<!-- Add LinkedIn later -->
-<!--
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
--->
-
 </p>
 
 ---
 
-⭐ *Always open to learning, collaboration, and building impactful software.*
+⭐ *Passionate about building scalable software systems and learning new technologies.*
