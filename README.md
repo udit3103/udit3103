@@ -1,69 +1,115 @@
 <h1 align="center">Hi 👋, I'm Udit</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Backend & Systems Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Backend & Systems Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Engineer;Exploring+System+Design+and+Networking&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Spring+Boot+Developer;Learning+Distributed+Systems+and+Cloud&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-💻 Computer Science student passionate about **Full-Stack Development and Backend Systems**  
-🚀 Experienced in building scalable applications using the **MERN Stack**  
-⚙️ Interested in **system design, networking technologies, and backend architecture**  
-📚 Always learning new technologies and building real-world projects
+💻 Computer Science student passionate about **backend systems, distributed architectures, and full-stack development**.  
+🚀 Experienced in building applications using the **MERN Stack and Java-based backend systems**.  
+⚙️ Interested in **microservices architecture, cloud infrastructure, and scalable backend platforms**.  
+📚 Currently expanding knowledge in **distributed systems, DevOps workflows, and cloud-native technologies**.
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Current Project
 
-### 🖥️ Languages
+### 💰 Expense Tracker (Microservices Architecture)
+
+Developing an **Expense Tracker Application** using **Java and Spring Boot with a microservices-based architecture**.
+
+Key features and learning areas:
+
+- Secure authentication and authorization workflows  
+- Linux-based deployment and debugging environments  
+- Modular microservice communication  
+- API Gateway integration  
+- AI / LLM integration inside a data-science microservice  
+- React Native mobile interface  
+- AWS based deployment workflows  
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,cpp,java,sql" />
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp,sql" />
 </p>
 
-### 🎨 Frontend
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,materialui" />
 </p>
 
-### ⚙️ Backend
+### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 </p>
 
-### 🗄️ Database
+### DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
 </p>
 
-### 🛠 Tools & Platforms
+### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
+
+---
+
+# ⚙️ Technologies I'm Working With
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=redis,kafka,docker,kubernetes,aws,mongodb,git" />
+</p>
+
+Additional technologies and tools:
+
+- Kafka  
+- RabbitMQ  
+- OAuth2  
+- JWT Authentication  
+- JPA & Hibernate  
+- Swagger / OpenAPI  
+- JUnit & Mockito  
+- Aerospike  
+- Prometheus Monitoring  
+- ELK Stack (ElasticSearch, Logstash, Kibana)  
+- New Relic Monitoring  
+- AWS S3  
 
 ---
 
 # 📌 Featured Projects
 
 ### 🔍 DPI Engine – Deep Packet Inspection System
-C++ networking project that analyzes **packet traffic, extracts SNI data, and applies rule-based filtering**.
+C++ networking system for **packet inspection, traffic classification, and rule-based filtering**.
 
 ### 🍔 Foodon – AI Enabled Food Delivery Platform
-Full-stack **MERN food delivery platform** with AI chatbot, recommendation system, and real-time order tracking.
+Full-stack **MERN application** with AI chatbot, recommendations, and real-time updates.
 
 ### 🤖 AI Model Building with DL4J
-Java-based deep learning project implementing **machine learning models using Deeplearning4j framework**.
+Java deep learning project using **Deeplearning4j framework**.
 
 ### 🛒 ShopiSense
-E-commerce related platform focused on **product management and shopping experience improvements**.
+E-commerce platform designed for **product and shopping management workflows**.
 
 ### 🌐 AVODHA Platform
-Web platform project designed for **online product and marketplace management**.
+Marketplace-focused web application.
 
 ### 🏪 Bazaar Bliss
-Marketplace project with **separate backend architecture for product management and services**.
+Marketplace platform with **separate backend service architecture**.
 
 ---
 
@@ -95,4 +141,4 @@ Marketplace project with **separate backend architecture for product management 
 
 ---
 
-⭐ *Passionate about building scalable software systems and learning new technologies.*
+⭐ *Interested in backend engineering, distributed systems, and scalable software architectures.*
