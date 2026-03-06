@@ -2,18 +2,17 @@
 <h3 align="center">Full Stack Developer | MERN Stack | Backend & Systems Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Engineer;Learning+System+Design&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Engineer;Exploring+System+Design+and+Networking&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-💻 Computer Science student passionate about **Full-Stack Web Development and Backend Systems**  
-🚀 Experienced in building scalable applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
-🔍 Interested in **system design, networking technologies, and backend architecture**  
-⚙️ Built projects involving **AI integration, real-time systems, and packet inspection engines in C++**  
-📚 Continuously learning new technologies and improving problem-solving skills
+💻 Computer Science student passionate about **Full-Stack Development and Backend Systems**  
+🚀 Experienced in building scalable applications using the **MERN Stack**  
+⚙️ Interested in **system design, networking technologies, and backend architecture**  
+📚 Always learning new technologies and building real-world projects
 
 ---
 
@@ -39,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠 Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,postman,vscode" />
 </p>
@@ -48,17 +47,23 @@
 
 # 📌 Featured Projects
 
-### 🍔 Foodon – AI Enabled Food Delivery Platform
-Full-stack MERN application with **AI chatbot, recommendation system, and real-time order tracking**.
-
 ### 🔍 DPI Engine – Deep Packet Inspection System
-C++ networking project that **analyzes packet traffic, extracts SNI data, and applies rule-based filtering**.
+C++ networking project that analyzes **packet traffic, extracts SNI data, and applies rule-based filtering**.
 
-### ⚖️ E-Court Hearing Platform
-Virtual courtroom system supporting **video conferencing, document submission, and case tracking**.
+### 🍔 Foodon – AI Enabled Food Delivery Platform
+Full-stack **MERN food delivery platform** with AI chatbot, recommendation system, and real-time order tracking.
 
-### 💳 CEO Card Platform
-MERN-based web platform focusing on **luxury card management and optimized database operations**.
+### 🤖 AI Model Building with DL4J
+Java-based deep learning project implementing **machine learning models using Deeplearning4j framework**.
+
+### 🛒 ShopiSense
+E-commerce related platform focused on **product management and shopping experience improvements**.
+
+### 🌐 AVODHA Platform
+Web platform project designed for **online product and marketplace management**.
+
+### 🏪 Bazaar Bliss
+Marketplace project with **separate backend architecture for product management and services**.
 
 ---
 
@@ -74,7 +79,7 @@ MERN-based web platform focusing on **luxury card management and optimized datab
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=udit3103&theme=tokyo-night"/>
 
