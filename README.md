@@ -5,10 +5,11 @@ Java Backend Developer | Backend & Systems Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Backend+Systems+Enthusiast;Learning+Distributed+Systems+%26+Cloud;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Backend+Systems+Enthusiast;Learning+Distributed+Systems+%26+Cloud;Building+Scalable+Applications"/>
 </p>
 
 <p align="center">
+
 <a href="mailto:udittiwari3103@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -17,15 +18,10 @@ Java Backend Developer | Backend & Systems Enthusiast
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Replace with your LinkedIn -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<!-- Replace with Resume Link -->
-<a href="YOUR_RESUME_LINK">
+<a href="./Udit%20Tiwari%20Resume.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
 </a>
+
 </p>
 
 ---
@@ -181,7 +177,7 @@ Built a secure offline UPI settlement backend using a simulated mesh network.
 - Idempotent Transactions
 - REST APIs
 - Spring Boot
-- JPA/Hibernate
+- JPA / Hibernate
 - H2 Database
 
 ---
@@ -208,7 +204,7 @@ Developed a Deep Packet Inspection engine capable of analyzing PCAP traffic and 
 
 Production-inspired expense management platform.
 
-Features include:
+### Features
 
 - Authentication
 - API Gateway
@@ -311,6 +307,7 @@ Actively solving DSA problems and strengthening problem-solving skills.
 # 📫 Connect With Me
 
 <p>
+
 <a href="mailto:udittiwari3103@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
@@ -319,9 +316,6 @@ Actively solving DSA problems and strengthening problem-solving skills.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
 </p>
 
 ---
